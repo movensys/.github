@@ -2,5 +2,5 @@
 This is the central hub for the Movensys organization on GitHub.
 
 <div align="center">
-  <img src="movensys_top_logo.svg" alt="Movensys Logo" width="200" />
+  <img src="movensys_top_logo.svg" alt="Movensys Logo" width="600" />
 </div>
